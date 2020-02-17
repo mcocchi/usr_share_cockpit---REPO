@@ -1,0 +1,12 @@
+{
+    "version": "195.1",
+    "requires": {
+	"cockpit": "122"
+    },
+
+    "tools": {
+        "setroubleshoot": {
+            "label": "SELinux"
+        }
+    }
+}

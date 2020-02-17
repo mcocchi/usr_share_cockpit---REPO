@@ -1,0 +1,14 @@
+{
+    "version": "195.1",
+    "requires": {
+	"cockpit": "137.x"
+    },
+
+    "dashboard": {
+        "index": {
+            "label": "Cluster",
+            "order": 20,
+            "icon": "pficon-cluster"
+        }
+    }
+}

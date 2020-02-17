@@ -1,0 +1,15 @@
+{
+    "version": "195.1",
+    "requires": {
+	"cockpit": "138"
+    },
+
+    "dashboard": {
+        "index": {
+            "label": "Dashboard",
+            "order": 10,
+            "wants": "multiple-machines",
+            "icon": "fa-tachometer"
+        }
+    }
+}

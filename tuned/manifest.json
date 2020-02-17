@@ -1,0 +1,7 @@
+{
+    "version": "195.1",
+    "name": "performance",
+    "requires": {
+	"cockpit": "122"
+    }
+}

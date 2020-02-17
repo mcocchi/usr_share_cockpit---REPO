@@ -1,0 +1,20 @@
+{
+    "version": "195.1",
+    "requires": {
+	"cockpit": "122"
+    },
+
+    "tools": {
+        "index": {
+            "label": "Applications"
+        }
+    },
+
+    "content-security-policy": "img-src *",
+
+    "config": {
+        "appstream_config_packages": [],
+        "appstream_data_packages": [ "appstream-data" ]
+    }
+
+}

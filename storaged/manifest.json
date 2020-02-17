@@ -1,0 +1,24 @@
+{
+    "version": "195.1",
+    "name": "storage",
+    "requires": {
+	"cockpit": "122"
+    },
+
+    "menu": {
+        "index": {
+            "label": "Storage",
+            "order": 30
+        }
+    },
+
+    "hacks": {
+        "with_storaged_iscsi_sessions": "no"
+    },
+
+    "config": {
+        "nfs_client_package": "nfs-utils",
+        "vdo_package": "vdo"
+    },
+    "content-security-policy": "img-src 'self' data:"
+}

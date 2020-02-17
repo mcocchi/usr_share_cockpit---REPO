@@ -1,0 +1,12 @@
+{
+    "version": "195.1",
+    "requires": {
+	"cockpit": "122"
+    },
+
+    "tools": {
+        "index": {
+            "label": "Diagnostic Reports"
+        }
+    }
+}

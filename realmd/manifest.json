@@ -1,0 +1,7 @@
+{
+    "version": "195.1",
+    "name": "domain",
+    "requires": {
+	"cockpit": "122"
+    }
+}
